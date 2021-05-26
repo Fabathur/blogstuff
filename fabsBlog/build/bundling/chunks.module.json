@@ -1,0 +1,50 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "f6f95d29a70ff9913b0c",
+  "publicPath": "/static/",
+  "outputPath": "/home/fabs/Dev/blog/fabsBlog/build/static",
+  "assetsByChunkName": {
+    "fabsblog": "fabsblog.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [],
+  "filteredAssets": 2,
+  "namedChunkGroups": {
+    "fabsblog": {
+      "chunks": [
+        "fabsblog"
+      ],
+      "assets": [
+        "fabsblog.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "fabsblog",
+      "files": [
+        "fabsblog.module.js"
+      ]
+    },
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    }
+  ]
+}
